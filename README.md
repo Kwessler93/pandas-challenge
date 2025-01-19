@@ -1,11 +1,11 @@
 # pandas-challenge
 Module 4 Challenge
 
-THe attached file, PyCitySchools_Final_Code.ipynb has all of the code, calculations, and dataframes requested for this assignment. Below are screenshots of the School Summary dataframe, the highest and lowest performing school dataframes, the school summary with school size, the scores by school spending and school size, and the scores by school type.
+The attached file, PyCitySchools_Final_Code.ipynb has all of the code, calculations, and dataframes requested for this assignment. Below are screenshots of the School Summary dataframe, the highest and lowest performing school dataframes, the school summary with school size, the scores by school spending and school size, and the scores by school type.
 
-From these dataframes and the information in them, I see that the District schools are performing as a much lower level than the Charter schools. THe highest ranking schools are all Charter schools and the lowest raking schools are all District schools.
+From these dataframes and the information in them, I see that the District schools are performing at a lower level than the Charter schools. The highest ranking schools are all Charter schools and the lowest raking schools are all District schools.
 
-Another notable observation is that the spending range by student seemed to be inversely correlated to the overall passing rate. The scores by School Spending Range data shows that the schools that are spending more money per student have a lower overall passing rate than the schools spending less per student. 
+Another notable observation is that the spending range by student is inversely correlated to the overall passing rate. The scores by School Spending Range data shows that the schools that are spending more money per student have a lower overall passing rate than the schools spending less per student. 
 
 The scores by school size data shows that there is also an inverse correlation between school size and test scores. The overall passing rate goes down as the school size increases. The data also shows that the school size for charter schools are all small and medium, while the school size for district schools are all large.
 
