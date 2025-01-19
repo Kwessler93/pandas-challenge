@@ -22,6 +22,9 @@ Highest Performing Schools
 Lowest Performing Schools
 ![Screenshot 2025-01-19 at 1 24 31 PM](https://github.com/user-attachments/assets/3256ee7c-9385-4fcc-87b3-b35a1c96100a)
 
+School Summary with School Size
+![Screenshot 2025-01-19 at 1 52 39 PM](https://github.com/user-attachments/assets/00cd93e0-f846-458c-8dca-f6bbe0557c77)
+
 Scores by School Spending Range
 ![Screenshot 2025-01-19 at 1 26 16 PM](https://github.com/user-attachments/assets/55ea14b9-b9ee-4b6f-b4c9-4899fea4798a)
 
